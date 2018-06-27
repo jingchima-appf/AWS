@@ -1,0 +1,19 @@
+## Functions
+- Fn:Sub
+  https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference-sub.html
+  !Sub ${} 
+- Condition Functions
+  https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference-conditions.html#intrinsic-function-reference-conditions-and
+- Ref
+  https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference-ref.html
+  Ref: or !Ref
+- 
+
+
+
+## Outputs
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/outputs-section-structure.html
+
+
+# Tmeplate References
+- AWS::SNS::Topic
